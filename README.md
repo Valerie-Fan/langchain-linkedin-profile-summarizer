@@ -6,7 +6,8 @@ The application is a Flask-based web application designed to help users generate
 
 ## Result
 <img width="1021" alt="截圖 2024-06-02 上午2 07 03" src="https://github.com/Valerie-Fan/langchain-linkedin-profile-summarizer/assets/164007751/15023c80-f32a-4515-b27b-c18b1a05c322">
-<img width="1187" alt="截圖 2024-06-02 上午2 07 13" src="https://github.com/Valerie-Fan/langchain-linkedin-profile-summarizer/assets/164007751/c2eb61b0-c5cd-4e05-b27f-cbe4f7a541c0">
+<img width="1145" alt="未命名" src="https://github.com/Valerie-Fan/langchain-linkedin-profile-summarizer/assets/164007751/161a6527-7de9-4afe-8c33-57744ffb298c">
+
 ## Installation
 
 ### Prerequisites
