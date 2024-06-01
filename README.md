@@ -59,8 +59,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Acknowledgments
 
-Special thanks to all contributors and the open-source community for their invaluable support and resources.
-
----
-
-This draft provides a structured overview of the project, installation steps, usage instructions, and additional information relevant to users and developers. Let me know if you need any adjustments or additional sections!
+Special thanks to instructor Eden Marco who provided a comprehensive tutorial of LangChain. This project is based on his lecture on Udemy: https://www.udemy.com/course/langchain/learn/lecture/37496242#overview
