@@ -1,1 +1,1 @@
-# langchain-linkedin-profile-summarizer
+# Ice Breaker
